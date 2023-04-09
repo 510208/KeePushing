@@ -1,0 +1,17 @@
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\KeePushing.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\KeePushing.exe
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\KeePushing.pdb
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\KeePushing.xml
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.AboutBox1.resources
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.Main.resources
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.Setting.resources
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.exe
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.xml
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.pdb
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\KeePushing.exe.manifest
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\KeePushing.application
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.TrustInfo.xml
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.exe.manifest
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\KeePushing.application
